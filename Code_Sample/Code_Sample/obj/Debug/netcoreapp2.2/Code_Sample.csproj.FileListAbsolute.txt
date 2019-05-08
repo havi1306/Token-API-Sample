@@ -1,0 +1,14 @@
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\bin\Debug\netcoreapp2.2\Code_Sample.deps.json
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\bin\Debug\netcoreapp2.2\Code_Sample.runtimeconfig.json
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\bin\Debug\netcoreapp2.2\Code_Sample.runtimeconfig.dev.json
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\bin\Debug\netcoreapp2.2\Code_Sample.dll
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.csprojAssemblyReference.cache
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.RazorAssemblyInfo.cache
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.RazorAssemblyInfo.cs
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.AssemblyInfoInputs.cache
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.AssemblyInfo.cs
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.RazorTargetAssemblyInfo.cache
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\bin\Debug\netcoreapp2.2\Code_Sample.pdb
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.dll
+C:\Users\Ha Vy\source\repos\Code_Sample\Code_Sample\obj\Debug\netcoreapp2.2\Code_Sample.pdb
